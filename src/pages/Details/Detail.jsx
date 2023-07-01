@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import DetailsBanner from './detailBanner/DetailsBanner'
-import UseFetch from '../../hooks/useFetch'
+import UseFetch from '../../hooks/UseFetch'
 import Cast from './cast/Cast'
 import VideosSection from './videoSection/VideoSection'
 import Similar from './carousel/Similar'
