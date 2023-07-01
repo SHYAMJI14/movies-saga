@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom';
-import UseFetch from '../../../hooks/useFetch';
+import UseFetch from '../../../hooks/UseFetch';
 import Img from '../../../components/lazyLoadImg/Img';
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper"
 import { useSelector } from 'react-redux';
